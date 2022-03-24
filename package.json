@@ -1,0 +1,7 @@
+{
+  "name": "kwt-starter-pwa",
+  "version": "0.0.1",
+  "scripts": {
+    "git:push": "git add . && git commit -am \"Yet another commit\" && git push origin main"
+  }
+}
