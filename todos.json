@@ -1,27 +1,27 @@
 [
-  { 
-    "id" : "1",
-    "name" : "Read Wealth of The Nations",
-    "done" : false    
+  {
+    "id": "1",
+    "name": "Read Wealth of The Nations",
+    "done": false
   },
   {
-    "id" : "2",
-    "name" : "Get Ready",
-    "done" : false    
+    "id": "2",
+    "name": "Get Ready",
+    "done": true
   },
   {
-    "id" : "3",
-    "name" : "Work on Git Crud",
-    "done" : true    
+    "id": "3",
+    "name": "Work on Git Crud",
+    "done": true
   },
   {
-    "id" : "4",
-    "name" : "Download Halo's Pilot",
-    "done" : true    
+    "id": "4",
+    "name": "Download Halo's Pilot",
+    "done": true
   },
   {
-    "id" : "5",
-    "name" : "Check Friendly Soccer Games",
-    "done" : false    
+    "id": "5",
+    "name": "Check Friendly Soccer Games",
+    "done": false
   }
 ]
